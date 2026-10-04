@@ -1,7 +1,7 @@
 ## 💻 Web Developer
 
 <p align="center">
-  <img src="./itachi-uchiha-2560x1080-19971.jpg" width="600">
+  <img src="./e38b75f9ceb27f5f032f5656158dde55.gif" width="600">
 </p>
 
 # Hi everyone ! 👋 I'm Niko Saputra Lubis
