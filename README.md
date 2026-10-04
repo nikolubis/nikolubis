@@ -1,16 +1,26 @@
-## Hi there 👋
+## 💻 Web Developer
 
-<!--
-**nikolubis/nikolubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./https://share.google/FZhsAL6onZ4U2nBhI" width="600">
+</p>
 
-Here are some ideas to get you started:
+# Hi there! 👋 I'm Niko Saputra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 INFORMATICS STUDENT // ABOUT_ME.exe
+
+```text
+$ whoami
+
+> Name: Niko Saputra
+> Role: Informatics Student
+> University: Universitas Satya Terra Bhinneka
+
+$ cat core_directives.txt
+
+> Learning programming and technology.
+> Interested in software development.
+> Currently learning Flutter and web development.
+> Building projects while surviving college.
+> Always learning new things.
