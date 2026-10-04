@@ -4,7 +4,7 @@
   <img src="./itachi-uchiha-2560x1080-19971.jpg" width="600">
 </p>
 
-# Hi there! 👋 I'm Niko Saputra
+# Hi everyone ! 👋 I'm Niko Saputra Lubis
 
 ---
 
