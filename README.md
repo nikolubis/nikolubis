@@ -13,7 +13,7 @@
 ```text
 $ whoami
 
-> Name: Niko Saputra
+> Name: Niko Saputra Lubis 
 > Role: Informatics Student
 > University: Universitas Satya Terra Bhinneka
 
