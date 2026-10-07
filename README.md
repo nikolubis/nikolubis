@@ -11,7 +11,7 @@
 ## 💻 INFORMATICS STUDENT // ABOUT_ME.exe
 
 ```text
-$ whoami
+ABOUT ME
 
 > Name: Niko Saputra Lubis 
 > Role: Informatics Student
